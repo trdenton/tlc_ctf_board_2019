@@ -91,14 +91,6 @@ Text GLabel 8150 2300 3    50   Input ~ 0
 R3
 Wire Wire Line
 	8150 2300 8150 2200
-Text GLabel 6100 3000 2    50   Input ~ 0
-QT1
-Text GLabel 6100 3100 2    50   Input ~ 0
-QT3
-Text GLabel 6100 3200 2    50   Input ~ 0
-QT2
-Text GLabel 6100 3300 2    50   Input ~ 0
-QT4
 Text GLabel 6100 3400 2    50   Input ~ 0
 QT5
 Text GLabel 6100 3500 2    50   Input ~ 0
@@ -416,4 +408,12 @@ Text GLabel 5300 2550 0    50   Input ~ 0
 VCC
 Wire Wire Line
 	5300 2550 5300 2700
+Text GLabel 6100 3300 2    50   Input ~ 0
+QT4
+Text GLabel 6100 3200 2    50   Input ~ 0
+QT2
+Text GLabel 6100 3100 2    50   Input ~ 0
+QT3
+Text GLabel 6100 3000 2    50   Input ~ 0
+QT1
 $EndSCHEMATC
