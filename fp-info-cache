@@ -1,4 +1,4 @@
-17412440098726274
+17403016553183091
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -74318,6 +74318,13 @@ varistor SIOV
 0
 2
 2
+coaster1
+coffee
+
+
+0
+0
+0
 digikey-footprints
 3-SIP_Module_TM1000Q
 
@@ -77566,52 +77573,3 @@ Zigbee_Module_MRF24J40MD
 0
 12
 12
-misc_footprints
-AVR-ISP-6
-6-lead dip package, row spacing 7.62 mm (300 mils)
-dil dip 2.54 300
-0
-6
-6
-misc_footprints
-test
-
-
-0
-0
-0
-tlc_ctf_board
-CAP_ARRAY_4_1206
-
-
-0
-8
-8
-tlc_ctf_board
-logo
-
-
-0
-0
-0
-tlc_ctf_board
-r_array
-
-
-0
-8
-8
-tlc_ctf_board
-wheel_simple
-
-
-0
-3
-3
-tlc_ctf_board
-wheel_simple_bak
-
-
-0
-3
-3
